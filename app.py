@@ -20,7 +20,7 @@ from langchain.chains.conversation.memory import ConversationSummaryMemory
 import os
 
 # Set your Hugging Face API token
-os.environ["HUGGINGFACEHUB_API_TOKEN"] = "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"
+os.environ["HUGGINGFACEHUB_API_TOKEN"] = ""
 
 
 
